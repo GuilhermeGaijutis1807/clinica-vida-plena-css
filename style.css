@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+
+/* Seletores de tag */
+
 body {
     font-family: Arial, sans-serif;
     color: #333333;
@@ -44,6 +47,9 @@ footer {
     padding: 20px;
 }
 
+
+/* Seletor de classe */
+
 .texto-destaque {
     margin-bottom: 20px;
     padding: 15px;
@@ -51,10 +57,16 @@ footer {
     border-left: 4px solid #1f6f78;
 }
 
+
+/* Seletor de ID */
+
 #formulario-agendamento {
     max-width: 600px;
     margin: 0 auto;
 }
+
+
+/* Seletor compartilhado */
 
 h1,
 h2 {
